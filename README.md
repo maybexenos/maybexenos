@@ -6,7 +6,7 @@
 <br><br>
 
 <img 
-src="https://avatars.githubusercontent.com/u/261246405?v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
+src="https://avatars.githubusercontent.com/u/263323752?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
 
 <br><br>
 
