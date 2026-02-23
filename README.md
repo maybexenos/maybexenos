@@ -43,8 +43,8 @@ src="https://avatars.githubusercontent.com/u/261246405?v=4" width="300" style="b
 
 ###  「 𝕹𝖊𝖙𝖜𝖔𝖗𝖐 & 𝕮𝖔𝖒𝖒𝖘 」
 <p align="center">
-<a href="https://sifuapis.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff" /></a>
-<a href="https://t.me/ewr_sifu"><img src="https://img.shields.io/badge/TG-000000?style=for-the-badge&logo=telegram&logoColor=00f2ff" /></a>
+<a href="https://maybexenoss.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=00f2ff" /></a>
+<a href="https://t.me/maybexenos"><img src="https://img.shields.io/badge/TG-000000?style=for-the-badge&logo=telegram&logoColor=00f2ff" /></a>
 <a href="https://wa.me/+8801320645204"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=00f2ff" /></a>
 <a href="https://fb.com/@Maybexenos"><img src="https://img.shields.io/badge/MASSANGER-000000?style=for-the-badge&logo=Facebook&logoColor=00f2ff" /></a>
 </p>
