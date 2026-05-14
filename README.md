@@ -75,6 +75,10 @@ src="https://avatars.githubusercontent.com/u/263323752?s=506&v=4" width="300" st
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats-beryl-chi-76.vercel.app/api/top-langs/?username=maybexenos&langs_count=8&theme=react&bg_color=151515" />
+</p>
+
 <img src="https://raw.githubusercontent.com/Ewr-Sifu/Ewr-Sifu/refs/heads/main/nl.svg" width="100%" />
 
 <br>
